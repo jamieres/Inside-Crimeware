@@ -1,0 +1,51 @@
+Inside OskiStealer
+https://twitter.com/jorgemieres/status/1233114832406286336
+ 
+gewe[.]tech
+|-> amix <=> 821a938c5ddb8815449a4532506a38be <=> EP:0x2800a - TS:2020:02:12 13:37:50+01:00
+|-> pegas.exe <=> 832193a47334858df29def936f1d413b <=> EP:0x2800a - TS:2020:02:07 22:47:42+01:00
+|-> pegas.exe <=> a2e605a82af8d4d224a13db3b6723c8a <=> EP:0x3450 - TS:2019:05:31 14:21:58+01:00
+|-> 6a07a640aaeb08b37ec43c760904601c <=> FeedbackAdrian <=> EP:0x13af7 - TS:2020:02:12 14:13:05+01:00
+ 
+#Ascertia
+#Sectigo
+ 
+Dashboard information:
+TOTAL LOGS: 800
+LOGS LAST WEEK: 726
+LOGS LAST 30 DAYS: 726
+TOTAL PASSWORDS: 21759
+ 
+Top infected countries:
+ India -> 121
+ Indonesia -> 87
+ Vietnam -> 54
+ Brazil -> 45
+ Turkey -> 39
+ Thailand -> 38
+ Philippines -> 37
+ Egypt -> 25
+ Pakistan -> 22
+ Korea -> 22
+ Poland -> 14
+ Algeria -> 13
+ Romania -> 11
+ 
+Top sites:
+customsforge.com   
+arhiva.moj-eracun.hr   
+musiczum.com   
+login.aaiedu.hr
+www.balkandownload.org
+ 
+Top browsers:
+Chromium -> 94.04% -> 20296
+Mozilla Firefox -> 3.43% -> 741
+Opera -> 0.01% -> 2
+Internet Explorer -> 2.52% -> 543
+Microsoft Edge -> 0% -> 0
+ 
+ 
+Related CRIPRO intel profiles IDs:
+5e580ae30f5f6600111caef2 [OskiStealer]
+5e580ba30f5f6600111caef6 [oxez]
